@@ -34,7 +34,7 @@
 
 <h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/theharshkumar/" target="blank">
+  <a href="https://www.linkedin.com/in/harshkumar91221/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Kumar" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/harshiee_91221/" target="blank">
@@ -72,11 +72,11 @@
 
 <h3 align="left">📊 Stats :</h3>
 <p align="center">
-<a href="https://github.com/Harshiee91221/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshiee91221&layout=compact&theme=radical&hide_border=true" /></a>  
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=Harshiee91221&show_icons=true&theme=radical&hide_border=true" />
+<a href="https://github.com/Harsh-91221/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-91221&layout=compact&theme=radical&hide_border=true" /></a>  
+<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=Harsh-91221&show_icons=true&theme=radical&hide_border=true" />
 </p>
 <p align='center'>		
-<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshiee91221&theme=radical&hide_border=true" />
+<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-91221&theme=radical&hide_border=true" />
 <hr>
 
 
