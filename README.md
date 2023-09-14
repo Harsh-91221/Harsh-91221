@@ -16,8 +16,9 @@
   </p>
 </div>
 <div align="left">
-<a href="https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu">
-  <img src="https://novatorem-wwq1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+	
+&nbsp; <br> [![Spotify](https://novatorem-wwq1.vercel.app/api/spotify)](https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu)
+
 </a>
 </div>
 
