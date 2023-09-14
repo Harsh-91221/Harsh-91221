@@ -17,8 +17,7 @@
 </div>
 <div align="left">
 	
-&nbsp; <br> [![Spotify](https://novatorem-wwq1.vercel.app/api/spotify)](https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu)
-
+[![Spotify](https://novatorem-wwq1.vercel.app/api/spotify)](https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu)
 </a>
 </div>
 
