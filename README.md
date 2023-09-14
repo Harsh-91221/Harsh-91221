@@ -17,7 +17,7 @@
 </div>
 <div align="left">
 	
-<div style="width: 200px;">
+<div style="width: 50px;">
 	
    [![Spotify](https://novatorem-wwq1.vercel.app/api/spotify)](https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu)
 </div>
