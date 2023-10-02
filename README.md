@@ -50,7 +50,7 @@
 </p>
 
 <hr>
-<h3 align="left"> Coding Platforms :</h3>
+<h3 align="left">☮ Coding Profiles :</h3>
 <p align="left">
 	<a href="https://leetcode.com/Harsh91221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harsh91221/" height="30" width="40" /></a>
 	<a href="https://codeforces.com/profile/harshch91221" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg" alt="user/harshch91221" height="30" width="40" /></a>
