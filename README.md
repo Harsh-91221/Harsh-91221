@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/harshiee_91221/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshiee_91221" height="30" width="40" />
   </a>
-  <a href="https://open.spotify.com/playlist/5lxcnIAL7jhaVgbXLUcsJ0?si=26f75ff374cb44ce" target="blank">
+  <a href="https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" alt="Harsh" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/599640724585185293" target="blank">
