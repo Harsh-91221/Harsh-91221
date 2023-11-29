@@ -9,15 +9,13 @@
 <h4 align="left">Visitor's count 👀</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{Harshiee91221}/count.svg" alt="HarshKumar :: Visitor's Count" /></p>
 
-<div>
-	<p>
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" width="25" align="center"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/>
 &nbsp Join the Vibe 🎶
   </p>
 </div>
 <div align="left">
-	
-[![Spotify](https://novatorem-wwq1.vercel.app/api/spotify)](https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu)
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=3174qfo6nubvhtkp2qja23c53ymu&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3174qfo6nubvhtkp2qja23c53ymu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/>
 </a>
 </div>
 
