@@ -11,7 +11,7 @@
 
 <div>
 	<p>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/3174qfo6nubvhtkp2qja23c53ymu/src/images/icons/Social/spotify.svg" width="25" align="center"/>
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" width="25" align="center"/>
 &nbsp Join the Vibe 🎶
   </p>
 </div>
