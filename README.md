@@ -9,8 +9,7 @@
 <h4 align="left">Visitor's count 👀</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{Harshiee91221}/count.svg" alt="HarshKumar :: Visitor's Count" /></p>
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/>
-&nbsp Join the Vibe 🎶
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/> Join the Vibe 🎶
   </p>
 </div>
 <div align="left">
