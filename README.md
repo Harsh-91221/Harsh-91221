@@ -91,6 +91,6 @@
 <h3 align="left">🐍 Contributions :</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Harsh-91221/salesp07/output/github-contribution-grid-snake.svg" alt="Snake animation" width="900" />
+<img src="https://raw.githubusercontent.com/Harsh-91221/Harsh-91221/output/github-contribution-grid-snake.svg" alt="Snake animation" width="900" />
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
