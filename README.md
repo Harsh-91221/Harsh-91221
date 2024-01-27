@@ -19,7 +19,7 @@
 </a>
 </div>
 
-- 🌱 I’m currently learning **C++ | DSA | JAVA**
+- 🌱 I’m currently learning **C++ | DSA | REACT.JS**
 
 - 💬 Ask me about **C++ , DSA**
 
