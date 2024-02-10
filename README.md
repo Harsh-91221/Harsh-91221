@@ -71,6 +71,7 @@
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS" width="40" height="40"/>
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JS" width="40" height="40"/>
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="REACT" width="40" height="40"/>
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="TAILWINDCSS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="fill: blue;"/>
   </a>
 </p>
