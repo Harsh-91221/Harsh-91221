@@ -106,7 +106,7 @@ A production-grade, full-stack project management platform built for modern team
 
 <div>
 <a href="https://harsh-91221.github.io/TeamForge"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-<a href="https://github.com/Harsh-91221"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+<a href="https://github.com/Harsh-91221/TeamForge"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 </div>
 
 </td>
