@@ -1,104 +1,192 @@
-[![](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/Harsh-91221)![banner](https://github.com/kunalshah017/kunalshah017/assets/95049390/04d04d5b-2f79-4a5d-b654-9021e22362c6)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Harsh Chaudhary</h1>
+<!-- Animated Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Chaudhary;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
 
-<h3 align="center">Welcome to my Coding World</h3>
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+<img src="https://komarev.com/ghpvc/?username=Harsh-91221&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views" />
 
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{Harshiee91221}/count.svg" alt="HarshKumar :: Visitor's Count" /></p>
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/> Join the Vibe 🎶
-  </p>
-</div>
-<div align="left">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3174qfo6nubvhtkp2qja23c53ymu&redirect=true">
-	
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3174qfo6nubvhtkp2qja23c53ymu&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=000000&bar_color_cover=false"/>
-</a>
-</a>
 </div>
 
-- 🌱 I’m currently learning **C++ | DSA | REACT.JS**
+---
 
-- 💬 Ask me about **C++ , DSA**
+<br/>
 
-- 📫 How to reach me -[ Linkedin](https://www.linkedin.com/in/theharshkumar/)
+### 🧑‍💻 &nbsp;About Me
 
-<hr>
+> *"Turning ideas into elegant code, one commit at a time."*
 
-</p>
-</div>
-
-<h3 align="left">🌐 Connect with me :</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshkumar91221/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Kumar" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/harshiee_91221/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshiee_91221" height="30" width="40" />
-  </a>
-  <a href="https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" alt="Harsh" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/599640724585185293" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="35" width="50" />
-  </a>
-</p>
-</p>
-
-<hr>
-<h3 align="left">☮ Coding Profiles :</h3>
-<p align="left">
-	<a href="https://leetcode.com/Harsh91221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harsh91221/" height="30" width="40" /></a>
-	<a href="https://codeforces.com/profile/harshch91221" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg" alt="user/harshch91221" height="30" width="40" /></a>
-	<a href="https://auth.geeksforgeeks.org/user/harshch91221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/harshch91221" height="30" width="40" /></a>
-	<a href="https://www.codingninjas.com/studio/profile/Harsh91221" target="blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="user/Harsh91221" height="30" width="40" /></a>
-</p>
-<hr>
-<h3 align="left">🛠 My Tech Stack :</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JS" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="REACT" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="TAILWINDCSS" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="FIREBASE" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/redux.svg" alt="REDUX" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="fill: blue;"/>
-  </a>
-</p>
-<hr>
-
-
-
-<h3 align="left">📊 Stats :</h3>
-<p align="center">
-<a href="https://github.com/Harsh-91221/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-91221&layout=compact&theme=radical&hide_border=true" /></a>  
-<img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=Harsh-91221&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p align='center'>		
-<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-91221&theme=radical&hide_border=true" />
-<hr>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  align="right" width="350"/>
-<!--<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />-->
-<br>
-<h3 align="left">🐍 Contributions :</h3>
+- 🔭 Building full-stack applications with the **MERN stack** and **TypeScript**
+- 🌱 Currently deepening my expertise in **System Design** and **Advanced DSA**
+- 👯 Open to collaborating on **Open Source** and **impactful projects**
+- 💬 Ask me about **React, Node.js, TypeScript, .NET, DSA**
+- 🎯 Strong believer in writing **clean, scalable, and maintainable** code
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Harsh-91221/Harsh-91221/output/github-contribution-grid-snake.svg" alt="Snake animation" width="900" />
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+**📍 India** &nbsp;·&nbsp; **🎓 B.Tech IT** &nbsp;·&nbsp; **💼 Open to Opportunities**
+
+[![Email](https://img.shields.io/badge/✉️_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harsh@example.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theharshkumar/)
+
+</div>
+
+---
+
+<br/>
+
+### 🛠️ &nbsp;Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<strong>🔤 Languages</strong><br/><br/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white" height="30" />
+</td>
+<td align="center" width="20%">
+<strong>⚛️ Frontend</strong><br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="30" />
+</td>
+<td align="center" width="20%">
+<strong>⚙️ Backend</strong><br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=postman&logoColor=white" height="30" />
+</td>
+<td align="center" width="20%">
+<strong>🗄️ Databases</strong><br/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" height="30" />
+</td>
+<td align="center" width="20%">
+<strong>🔧 Tools</strong><br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height="30" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **Core CS:** Data Structures & Algorithms · OOP · Operating Systems · DBMS · Computer Networks · Agile/Scrum
+
+---
+
+<br/>
+
+### 🚀 &nbsp;Featured Project
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+#### 🏗️ **TeamForge** — Multi-Tenant Project Management SaaS
+
+A production-grade, full-stack project management platform built for modern teams.
+
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
+
+<div>
+<a href="https://harsh-91221.github.io/TeamForge"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Harsh-91221"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+<br/>
+
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-91221&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<br/>
+
+### 🐍 &nbsp;Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-91221/Harsh-91221/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-91221/Harsh-91221/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Harsh-91221/Harsh-91221/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### 💻 &nbsp;Coding Profiles
+
+<div align="center">
+<a href="https://leetcode.com/Harsh91221/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://codeforces.com/profile/harshch91221" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/harshch91221/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+</div>
+
+---
+
+<br/>
+
+### 🌐 &nbsp;Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/theharshkumar/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/harshiee_91221/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://discord.com/users/599640724585185293" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://open.spotify.com/user/3174qfo6nubvhtkp2qja23c53ymu" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117,50:7C3AED&section=footer&text=Thanks+for+visiting!+⚡&fontSize=20&fontColor=7C3AED&animation=fadeIn" alt="Footer" />
+
+</div>
