@@ -29,7 +29,7 @@
 
 **📍 India** &nbsp;·&nbsp; **🎓 B.Tech IT** &nbsp;·&nbsp; **💼 Open to Opportunities**
 
-[![Email](https://img.shields.io/badge/✉️_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harsh@example.com)
+[![Email](https://img.shields.io/badge/✉️_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshch91221@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumar91221/)
 
 </div>
