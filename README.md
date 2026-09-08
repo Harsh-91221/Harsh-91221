@@ -30,7 +30,7 @@
 **📍 India** &nbsp;·&nbsp; **🎓 B.Tech IT** &nbsp;·&nbsp; **💼 Open to Opportunities**
 
 [![Email](https://img.shields.io/badge/✉️_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harsh@example.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshkumar91221/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumar91221/)
 
 </div>
 
@@ -169,10 +169,10 @@ A production-grade, full-stack project management platform built for modern team
 ### 🌐 &nbsp;Connect With Me
 
 <div align="center">
-<a href="www.linkedin.com/in/harshkumar91221/" target="_blank">
+<a href="https://www.linkedin.com/in/harshkumar91221/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/harshie_91221/" target="_blank">
+<a href="https://www.instagram.com/harshi_91221/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://discord.com/users/599640724585185293" target="_blank">
