@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Animated Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Chaudhary;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Chaudhary;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Harsh-91221&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Harsh-91221&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views" />
 
 </div>
 
